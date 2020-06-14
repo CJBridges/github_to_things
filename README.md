@@ -19,3 +19,6 @@ Note: Updates to a PR are not currently handled (e.g. if your review is requeste
 
 - Only get PRs from people on your team
 - Put the PRs in the inbox for sorting instead of their dedicated lists
+
+## Other tools/alternatives
+- [Zapier](https://zapier.com) can connect Github to Things, but with less control since it can only use Things e-mail integration.  It's a great tool, but non-free over 100 task executions/5 zaps per months.
